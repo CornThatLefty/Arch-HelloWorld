@@ -5,10 +5,10 @@ pkgbase = hello
 xdata = pkgtype=debug
 pkgver = 1.0-1
 pkgdesc = Detached debugging symbols for hello
-url = https://example.com/hello
-builddate = 1754858403
+url = 
+builddate = 1754864226
 packager = Unknown Packager
-size = 7400
+size = 7408
 arch = x86_64
 license = GPL
 makedepend = gcc

@@ -1,6 +1,6 @@
 #include <stdio.h>
 
 int main() {
-    printf("Poopy!\n");
+    printf("Poopy 4!\n");
     return 0;
 }
