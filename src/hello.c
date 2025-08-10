@@ -1,1 +1,6 @@
-/home/chuck/Projects/SimpleBinary/hello.c
+#include <stdio.h>
+
+int main() {
+    printf("Poopy!\n");
+    return 0;
+}
